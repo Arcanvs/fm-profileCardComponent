@@ -19,8 +19,8 @@ body {
 		min-width: 375px;
 		justify-content: center;
 		align-items: center;
-		background: url('/images/bg-pattern-top.svg') left -300px top -478px no-repeat, 
-					url('/images/bg-pattern-bottom.svg') right -300px bottom -478px no-repeat;
+		background: url('../../images/bg-pattern-top.svg') left -300px top -478px no-repeat, 
+					url('../../images/bg-pattern-bottom.svg') right -300px bottom -478px no-repeat;
 		background-size: 978px 978px;
 	}
 }
@@ -86,8 +86,8 @@ body {
 
 @media (max-width: 375px){
 	main {
-		background: url('/images/bg-pattern-top.svg') left -480px top -380px no-repeat, 
-					url('/images/bg-pattern-bottom.svg') right -480px bottom -380px no-repeat !important;
+		background: url('../../images/bg-pattern-top.svg') left -480px top -380px no-repeat, 
+					url('../../images/bg-pattern-bottom.svg') right -480px bottom -380px no-repeat !important;
 		background-size: 700px 700px !important;
 	}
 }
